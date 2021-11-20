@@ -1,7 +1,7 @@
 # Matrix-envelope
 This is the first project of the numerical analysis discipline, offered by IMECC - UNICAMP in the first semester of 2020
 
-More information about it and its implementation can be found at “report.pdf”, in Portuguese.
+More information about it can be found at “report.pdf”, in Portuguese.
 
 There is a slight mistake in the “major_routine.mlx”, where we expanded the A matrix. It will be corrected soon.
 
@@ -14,7 +14,7 @@ Example of storing the envelope in a triangular matrix:
 
 Once the method is understood, we sought with this project to answer the following questions:
 
-1)Write an algorithm to solve the linear system Ux = b, U ∈ IR ^ (n × n), b ∈ IRn by reverse substitution assuming the matrix U is upper triangular and stored according to the column envelope structure.
+1) Write an algorithm to solve the linear system Ux = b, U ∈ IR ^ (n × n), b ∈ IRn by reverse substitution assuming the matrix U is upper triangular and stored according to the column envelope structure.
 
 2) For matrix A, specify the column-oriented envelope for its upper triangular portion and the row-oriented envelope for its lower triangular portion, making, in this second case, the adaptations in the definition and in the index vectors corresponding to the rows and columns.
 
